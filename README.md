@@ -8,5 +8,5 @@ lkjhfghjkömnbf
 
 
 
-[tıklaa] (https://kodluyoruz.org
+[tıklaa](https://kodluyoruz.org
 )
